@@ -1,0 +1,28 @@
+
+.mi-container-fluid{
+    background-color:black;
+    height: 200px;
+}
+*{margin: 10px;}
+.bi-twitter-x{ 
+     font-size: 30px;
+     color:rgb(2, 204, 255);
+    } 
+
+
+.bi-facebook{ 
+    font-size: 30px;
+    color:blue;
+ } 
+.bi-instagram{
+    font-size: 30px;
+     color:rgb(128, 0, 100);
+} 
+.header {
+    font-size: 2em;
+  }
+  
+.button {
+    background-color: blue;
+  }
+  
